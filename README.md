@@ -1,5 +1,18 @@
 # Real Estate Management System
 
+# Property Management Website
+
+This platform enables **buyers** to directly browse properties listed by **sellers** without intermediaries. Sellers can easily list their properties on the website, eliminating the need for brokers or middlemen.
+
+Buyers can search properties based on:
+- Location
+- Price
+- Area
+
+Each listing includes the seller's contact information, allowing buyers to reach out directly to the seller to arrange meetings and finalize deals.
+
+By removing brokers from the process, this website provides a seamless and cost-effective experience for both buyers and sellers.
+
 A simple web-based application built with PHP and MySQL for managing and showcasing real estate properties. This system provides an administrative interface for property management and a public-facing section for users to browse and filter properties.
 
 ## Features
